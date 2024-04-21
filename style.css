@@ -1,0 +1,393 @@
+.img{
+    width: 100px;
+    margin-top: 20px;
+    margin-left: 20px;
+    
+}
+
+.btn{
+    background-color: rgb(255, 127, 180);
+    color: white;
+    border-radius: 20px;
+    margin-left: 190px;
+    margin-top: 20px;
+    gap: 10px;
+    
+}
+.icons{
+    list-style: none;
+    margin-top: 30px;
+    margin-left: 140px;
+    display: inline;
+    word-spacing: 30px;
+}
+.navbar-nav{
+        margin-left: 80px;
+        margin-top: 30px;
+        
+}
+.mainimages{
+    width: 100px;
+   
+}
+.images{
+    margin-top: 10px;
+    margin-left: 10px;
+    
+}
+.head{
+    width: 100%;
+    height: 100px;
+}
+.head1{
+    color:white;
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: -400px;
+    margin-left: 80px;
+}
+.head2{
+    color: white;
+    font-size: 30px;
+    margin-left: 80px;
+}
+.btn1{
+    background-color: rgb(255, 127, 180);
+    font-size: 30px;
+    width: 20%;
+    color: white;
+    border-radius: 60px;
+    margin-left: 110px;
+    margin-top: 220px;
+    justify-content: center;
+    align-content: center;
+}
+.head3{
+    width: 100%;
+    height: 100px;
+}
+.heading{
+    width: 100%;
+    color:gray;
+    font-size: 70px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 90px;
+    justify-content: center;
+}
+.imagess{
+    opacity: 15.33%;
+    margin-left: 20px;
+    margin-right: 20px;
+   
+}
+.gallery{
+    width: 100%;
+    padding: 80px 0;
+
+}
+.gallery-item{
+    width: 70%;
+    margin-left: 50px;
+    box-shadow: 15px;
+    border-radius: 40px;
+    padding: 10px;
+    justify-content: space-between;
+    gap: 10px;
+
+}
+.image-container0{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.fa-birthday-cake{
+    justify-content: center;
+    font-size: 40px;
+    color: gray;
+    
+}
+.container5 {
+    padding: 20px;
+}
+  
+.image-with-text {
+    position: relative; 
+}
+  
+.image-with-text img {
+    max-width: 100%; 
+    height: auto; 
+}
+  
+.text-overlay {
+    position: absolute;  
+    top: 30%; 
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    color: gray; 
+    text-align: center; 
+  }   
+.text-overlay h2 {
+    font-size: 40px;
+    font-weight: bold;
+} 
+.btn3{
+    background-color: rgb(255, 127, 180);
+        font-size: 30px;
+        width: 50%;
+        color: white;
+        border-radius: 50px;
+        margin-left: 30px;
+        margin-top: 60px;
+        justify-content: center;
+    
+}
+.head4{
+    width: 100%;
+    height: auto;
+}
+.heading7{
+    width: 100%;
+    color:gray;
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 40px;
+    justify-content: center;
+}
+
+.image-container4{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.gallery-item1{
+    width: 100%;
+    margin-left: 10px;
+    margin-right: 40px;
+    box-shadow: 20px;
+    border-radius: 20px;
+    padding: 10px;
+    justify-content: space-between;
+}
+.bgcolor{
+    color: grey;
+    font-weight: bold;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.bgcolor0{
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+}
+.bgcolor1{
+    text-decoration: none;
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+    text-align: center;
+    list-style-type: none;
+}
+.round{
+    width: 20%;
+    border-radius: 50%; 
+    border: 25px solid;
+}
+.bgcolor4{
+     color: gray;
+     font-weight: bold;
+     font-size: 20px;   
+}
+.team-section{
+    margin-top: 75px;
+}
+.our-team{
+    width: 100%;
+    color: gray;
+    font-size: 30px;
+    text-align: center;
+    justify-content: center;
+    font-weight: bold;
+}
+.team-title h5{
+    font-size: 50px;
+    color: blue;
+    text-align: center;
+    position: relative;
+}
+.team-cards{
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    margin-left: 40px;
+}
+.team-card{
+    background-color: cadetblue;
+    border-radius: 50px;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    margin-left: 50px;
+}
+.team-image{
+    border-radius: 50%;
+    height: 130px;
+    width: 130px;
+    object-fit: cover;
+    margin-bottom: 10px;
+}
+.james{
+    font-size: 50px;
+    color: white;
+    text-align: center;
+} 
+.james1{
+    font-size: 15px;
+    color: white;
+    text-align: center;
+} 
+@media screen and (max-width: 768px){
+    .team-cards{
+        display: flex;
+        flex-direction: column;
+    }
+    .team-card{
+        width: 85%;
+        margin: 25px auto;
+    }
+} 
+.our{
+    width: 100%;
+    margin-left: 50px;
+    font-size: 22px;
+    margin-right: 20px;
+}
+caption{
+    width: 100%;
+    color: gray;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+}
+.mainimages8{
+    width: 100%;
+    margin-bottom: 140px;
+}
+.images8{
+    width: 100%;
+    opacity: 30.33%;
+    margin-left: 10px;
+    margin-right: 20px;
+}
+.head8{
+        width: 100%;
+}
+.head9{
+    width: 100%;
+    justify-content: center;  
+    text-align: center;
+    color:grey; 
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-top: -580px;
+    
+}
+.btn8{
+        font-size: 30px;
+        width: 20%;
+        color: gray;
+        border-radius: 30px;
+        margin-left: 290px;
+        margin-top: 30px;
+        justify-content: center;
+        text-align: center;
+        
+    
+}
+.btn9{
+     background-color: rgb(255, 127, 180);
+     font-size: 30px;
+     width: 30%;
+     color: white;
+     border-radius: 30px;
+     border: 5px solid;
+     margin-left: 30px;
+     margin-top: 60px;
+     justify-content: center;
+     
+}
+.follow{
+    width: 100%;
+    color: gray;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 40px;
+
+}
+.icons9{
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 580px;
+    display: inline;
+    word-spacing: 20px;
+}
+.container4{
+    width: 100%;
+    margin-top: 20px;
+    margin-bottom: 40px;
+    
+}
+
+.img1{
+    width: 90%;
+    align-items: center;
+    margin-top: 30px;
+    
+    
+}
+.one{
+    width: 100%;
+    height: auto;
+}
+.three{
+    width: 100%;
+    font-size: 18px;
+    justify-content: left;
+    text-align: left;
+
+}
+.make{
+    width: 100%;
+    list-style-type: none;
+    color: grey;
+    margin-top: 20px;
+    margin-left: 150px;
+    font-size: 20px;
+       
+}
+.fa-facebook{
+    color: blue;
+    font-size: 20px;
+}
+.fa-twitter{
+    color: lightskyblue;
+    font-size: 20px;
+}
+.fa-google-plus{
+    font-size: 20px;
+}
